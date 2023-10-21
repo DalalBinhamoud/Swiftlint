@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    var verylongVarableNameToBreakSwifdtlintRuleAndCheckTheExistingErrorAndCodeSmell = "temp"
+    var smallText = "temp"
     var body: some View {
         VStack {
             Image(systemName: "globe")
